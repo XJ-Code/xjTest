@@ -1,0 +1,30 @@
+//
+//  XJPrefixHeader.pch
+//  xjTest
+//
+//  Created by Leon on 2017/1/16.
+//  Copyright © 2017年 FreeLa. All rights reserved.
+//
+
+#ifndef XJPrefixHeader_pch
+#define XJPrefixHeader_pch
+
+#import "LewPopupViewController.h"  //弹出动画
+#import "FLHeader.h"
+#import "XJFinalTool.h"
+#import "UIView+WBTSizes.h"
+#import "UIColor+WBTHelper.h"
+//添加open cv 库
+#ifdef __cplusplus
+//#import <opencv2/opencv.hpp>
+
+#endif
+
+
+#define COLOR_TEXT_DARK     0x707070
+
+
+
+
+
+#endif /* XJPrefixHeader_pch */
