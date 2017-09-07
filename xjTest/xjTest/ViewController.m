@@ -83,6 +83,7 @@
                 @"摄像头拍照",
                 @"SDK测试",
                 @"填充小动画",
+                @"一款好用的富文本编辑器",
                 ];
 }
 
@@ -97,6 +98,7 @@
                       @"摄像头拍照",
                       @"哎呀我的天",
                       @"",
+                      @"在ZSSRichEditer 上做了些许修改",
                       ];
 }
 
@@ -110,7 +112,8 @@
                    @"XJImageAddImageViewController",
                    @"XJAVCaptureViewController",
                    @"XJSDKTestViewController",
-                   @"XJAnimationTianChongController"
+                   @"XJAnimationTianChongController",
+                   @"FLRichTextViewController"
                    ];
 }
 
